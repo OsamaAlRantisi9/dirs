@@ -1,5 +1,7 @@
 # Dirs — ضرس
 
+![DIRS: dental care booking for university clinics](media/cover-en.png)
+
 **A healthtech platform connecting dental students with patients who need treatment at university clinics.**
 
 Dental students need real patients to complete their clinical requirements. Patients need supervised care and often don't know university clinics offer it. Dirs connects the two, and routes every case to the right student, at the right clinic, at the right time.
