@@ -61,6 +61,8 @@ A language model asks the patient short, adaptive multiple-choice questions and 
 
 *Why:* clinical routing has to be predictable, explainable and auditable. A language model is good at asking the next sensible question and bad at being accountable.
 
+![Smart case intake: emergency check, free text, AI questions, tooth chart, photo, rule-based routing](media/cover-intake.png)
+
 ### 2. No patient accounts, without weakening security
 Patients submit a case through a link and track it with a link and a 6-digit code. Tracking tokens are stored only as hashes, codes are checked with HMAC behind per-IP and per-phone rate limits, and in-clinic confirmation locks after five wrong attempts. The same code is how a student confirms the treatment in the clinic, so a case only counts when the patient was actually there.
 
